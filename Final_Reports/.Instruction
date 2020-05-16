@@ -1,1 +1,5 @@
+
+
 Model fitting using growth model and identify two groups with high infetcion and low infection reates 
+Machine learning (Random Forest and SVM for two groups identified by growth modeling) and Trajectory analysis (feature difference of three obtained trajectory clusters) 
+
